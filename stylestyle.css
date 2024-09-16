@@ -123,11 +123,10 @@ nav:hover .user-profile{
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 5rem;
     margin: 0;
     padding: 0;
     text-decoration: none;
-    
+    height: 6rem;
  
 }
 .fa-primary, .fa-secondary{
@@ -135,8 +134,9 @@ nav:hover .user-profile{
 }
 .nav-logo-item{
     font-weight: bold;
-    text-align: center;
     width: 100%;
+    text-align: center;
+    
 }
 .logo-text{
     display: inline;
@@ -147,6 +147,7 @@ nav:hover .user-profile{
     transition: width var(--transition-speed);
 }
 .nav-link{
+    top: 0;
     display: flex;
     align-items: center;
     filter: grayscale(100%) opacity(0.7);
@@ -176,7 +177,9 @@ nav:hover .nav-link{
     background-color: var(--color-2);
 }
 
+/*Fuck*/
 
+/*Fuck2222*/
 
 
 /*
@@ -219,3 +222,4 @@ nav:hover .logo svg{
 nav:hover .nav-logo{
     filter: grayscale(0) opacity(1);
 }
+dadadadadadadadadadaddadadadadadaad
